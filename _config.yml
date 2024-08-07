@@ -14,9 +14,9 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: markvisser.blog # the main title
+title: Mark Visser # the main title
 
-tagline: Thoughts of an SRE # it will display as the sub-title
+tagline: "Kubernetes, Observability, and Beyond" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog about SRE related topics.
