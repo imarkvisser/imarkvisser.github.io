@@ -4,8 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello! I'm **Mark Visser**, a Site Reliability Engineer based in the Netherlands, passionate about crafting robust and innovative technology solutions.
-I've had the privilege of working for a variety of high profile companies, including **De Nederlandsche Bank**, **Ahold Delhaize**, **Pandora Intelligence**, and **ProRail** and currently working at [HCS Company](https://www.hcs-company.com).
+Hello, I'm Mark Visser, a Site Reliability Engineer based in the Netherlands with a deep passion for observability and building reliable, scalable systems.
+
+Throughout my career, I’ve worked with organizations such as De Nederlandsche Bank, Ahold Delhaize, Pandora Intelligence, and ProRail. Each reinforcing my belief that observability is not just a toolset, but a mindset.
+
+I'm currently the Lead Observability Engineer at [Nedap](https://nedap.com){:target="_blank"}, where we build mission-driven software solutions for sectors like healthcare, security, and retail, empowering organizations through smarter technology.
 
 ## About the Blog
 
