@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: Mark Visser # the main title
 
-tagline: "Kubernetes, Observability, and Beyond" # it will display as the sub-title
+tagline: "Observability and Beyond" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog about SRE related topics.
