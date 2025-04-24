@@ -117,10 +117,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: imarkvisser/imarkvisser.github.io
+    repo_id: R_kgDOJFd1dA
+    category: Announcements
+    category_id: DIC_kwDOJFd1dM4Cpb8J
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
