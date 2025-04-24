@@ -13,6 +13,6 @@ media_subpath: '/posts/20240809'
 Life has been pretty busy over the past few months, leaving me with little time for much outside of work.
 Now that I’m settling in with my new team, I finally have the space to start writing again, especially about the things that excite me.
 
-This post is just a short one to get things going, but stay tuned for more content soon—expect observability insights, thoughts, and the occasional code snippet.
+This post is just a short one to get things going, but stay tuned for more content soon, expect observability insights, thoughts, and the occasional code snippet.
 
 // MV
