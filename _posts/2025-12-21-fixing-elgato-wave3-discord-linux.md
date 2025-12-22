@@ -108,6 +108,7 @@ After=pipewire.service
 Type=oneshot
 RemainAfterExit=yes
 ExecStart=/bin/sh -c 'sleep 2 && pactl load-module module-null-sink sink_name=wave3_dummy && pactl load-module module-loopback source=alsa_input.usb-Elgato_Systems_Elgato_Wave_3_BS10M1A09648-00.mono-fallback sink=wave3_dummy latency_msec=1'
+ExecStop=/bin/sh -c 'pactl unload-module module-loopback; pactl unload-module module-null-sink'
 
 [Install]
 WantedBy=default.target
